@@ -1,6 +1,13 @@
-### McKinley D. 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&pause=5000&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=McKinley+Dickerson" alt="Typing SVG" /></a>
 
-**Software Engineer**
+
+As a junior developer with a background in recruiting, I am a great communicator and have a passion for working collaboratively. With a commitment to continuous learning and a passion for creating innovative solutions, I'm eager to contribute to cutting-edge projects that make a real impact on people's lives.
+
+![JavaScript Logo.](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JS Logo")
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![CSS Logo.](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white "CSS Logo")
+![HTML Logo.](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML Logo")
+
 <!--
 **redroguea1/redroguea1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As a junior developer with a background in recruiting, I am a great communicator and have a passion for working collaboratively. With a commitment to continuous learning and a passion for creating innovative solutions, I'm eager to contribute to cutting-edge projects that make a real impact on people's lives.
 
