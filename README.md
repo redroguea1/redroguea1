@@ -1,5 +1,6 @@
-### Hi there 👋
+### McKinley D. 
 
+**Software Engineer**
 <!--
 **redroguea1/redroguea1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+As a junior developer with a background in recruiting, I am a great communicator and have a passion for working collaboratively. With a commitment to continuous learning and a passion for creating innovative solutions, I'm eager to contribute to cutting-edge projects that make a real impact on people's lives.
+
